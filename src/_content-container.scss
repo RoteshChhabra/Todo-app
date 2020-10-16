@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+.content-container{
+    display: flex;
+    align-items: center;
+    
+   max-width: 80rem;
+   padding: 0 10rem;
+}
+
+.header{
+    background: #F5F5F5;
+    padding: 1.6rem 0;
+    margin-bottom: 1.2rem;
+
+   
+}
+
+.body{
+    margin: 2.6rem;
+    display: flex;
+    align-items: center;
+
+}
